@@ -1,0 +1,26 @@
+M(1,1) = 1.8393*cos(theta3) - 0.837*cos(theta4) - 0.0178*sin(theta3) + 0.1269*sin(theta4) - 0.837*cos(theta3)*cos(theta4) + 0.1269*cos(theta3)*sin(theta4) + 0.1269*cos(theta4)*sin(theta3) - 0.000132432*cos(theta5)*sin(theta5) + 0.837*sin(theta3)*sin(theta4) - 0.00290548*cos(theta5)^2 + 3.61919;
+M(1,2) = 0.91965*cos(theta3) - 0.837*cos(theta4) - 0.0089*sin(theta3) + 0.1269*sin(theta4) - 0.4185*cos(theta3)*cos(theta4) + 0.06345*cos(theta3)*sin(theta4) + 0.06345*cos(theta4)*sin(theta3) - 0.000132432*cos(theta5)*sin(theta5) + 0.4185*sin(theta3)*sin(theta4) - 0.00290548*cos(theta5)^2 + 2.35096;
+M(1,3) = 0.16465*cos(theta3) - 0.4185*cos(theta4) - 0.0089*sin(theta3) + 0.06345*sin(theta4) - 0.4185*cos(theta3)*cos(theta4) + 0.06345*cos(theta3)*sin(theta4) + 0.06345*cos(theta4)*sin(theta3) - 0.000132432*cos(theta5)*sin(theta5) + 0.4185*sin(theta3)*sin(theta4) - 0.00290548*cos(theta5)^2 + 1.05864;
+M(1,4) = 0.0186*sin(theta4) - 0.0127236*cos(theta5) + 0.000436835*sin(theta5) + 0.0186*cos(theta3)*sin(theta4) + 0.0186*cos(theta4)*sin(theta3) + 0.00328178;
+M(1,5) = 0.000436835*sin(theta5) - 0.0127236*cos(theta5);
+M(2,1) = 0.91965*cos(theta3) - 0.837*cos(theta4) - 0.0089*sin(theta3) + 0.1269*sin(theta4) - 0.4185*cos(theta3)*cos(theta4) + 0.06345*cos(theta3)*sin(theta4) + 0.06345*cos(theta4)*sin(theta3) - 0.000132432*cos(theta5)*sin(theta5) + 0.4185*sin(theta3)*sin(theta4) - 0.00290548*cos(theta5)^2 + 2.35096;
+M(2,2) = 0.1269*sin(theta4) - 0.837*cos(theta4) - 0.000132432*cos(theta5)*sin(theta5) - 0.00290548*cos(theta5)^2 + 2.17141;
+M(2,3) = 0.06345*sin(theta4) - 0.4185*cos(theta4) - 0.000132432*cos(theta5)*sin(theta5) - 0.00290548*cos(theta5)^2 + 1.05864;
+M(2,4) = 0.0186*sin(theta4) - 0.0127236*cos(theta5) + 0.000436835*sin(theta5) + 0.00328178;
+M(2,5) = 0.000436835*sin(theta5) - 0.0127236*cos(theta5);
+M(3,1) = 0.16465*cos(theta3) - 0.4185*cos(theta4) - 0.0089*sin(theta3) + 0.06345*sin(theta4) - 0.4185*cos(theta3)*cos(theta4) + 0.06345*cos(theta3)*sin(theta4) + 0.06345*cos(theta4)*sin(theta3) - 0.000132432*cos(theta5)*sin(theta5) + 0.4185*sin(theta3)*sin(theta4) - 0.00290548*cos(theta5)^2 + 1.05864;
+M(3,2) = 0.06345*sin(theta4) - 0.4185*cos(theta4) - 0.000132432*cos(theta5)*sin(theta5) - 0.00290548*cos(theta5)^2 + 1.05864;
+M(3,3) = 0.893994 - 0.00290548*cos(theta5)^2 - 0.000132432*cos(theta5)*sin(theta5);
+M(3,4) = 0.000436835*sin(theta5) - 0.0127236*cos(theta5) + 0.00328178;
+M(3,5) = 0.000436835*sin(theta5) - 0.0127236*cos(theta5);
+M(4,1) = 0.0186*sin(theta4) - 0.0127236*cos(theta5) + 0.000436835*sin(theta5) + 0.0186*cos(theta3)*sin(theta4) + 0.0186*cos(theta4)*sin(theta3) + 0.00328178;
+M(4,2) = 0.0186*sin(theta4) - 0.0127236*cos(theta5) + 0.000436835*sin(theta5) + 0.00328178;
+M(4,3) = 0.000436835*sin(theta5) - 0.0127236*cos(theta5) + 0.00328178;
+M(4,4) = 0.551595;
+M(4,5) = 0.00767374;
+M(5,1) = 0.000436835*sin(theta5) - 0.0127236*cos(theta5);
+M(5,2) = 0.000436835*sin(theta5) - 0.0127236*cos(theta5);
+M(5,3) = 0.000436835*sin(theta5) - 0.0127236*cos(theta5);
+M(5,4) = 0.00767374;
+M(5,5) = 0.00767374;
+
